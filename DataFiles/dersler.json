@@ -1,0 +1,14 @@
+[
+  {
+    "DersId": 1,
+    "DersAdi": "fızık",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Unvan": "prof",
+      "Id": 1,
+      "Ad": "ahmt",
+      "Soyad": "el"
+    },
+    "KayitliOgrenciler": []
+  }
+]
