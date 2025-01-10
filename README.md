@@ -62,7 +62,7 @@ Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue 
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
+Bu proje MIT Lisansı altında lisanslanmıştır.
 
 ## İletişim
 
